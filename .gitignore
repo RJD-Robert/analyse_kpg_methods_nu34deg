@@ -8,3 +8,16 @@
 **/cache_kpg
 Li2024/results/generate_cache_IBM.jsonl
 **/rf_debug
+# Daten / große Dateien
+*.csv
+*.pkl
+*.onnx
+*.pt
+*.pth
+*.bin
+*.h5
+*.jsonl
+*.log
+*.zip
+*.tar
+data/
