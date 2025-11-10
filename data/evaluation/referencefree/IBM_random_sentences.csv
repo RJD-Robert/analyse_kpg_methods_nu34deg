@@ -1,0 +1,277 @@
+key_point_id,topic,key_point
+1,We_should_abolish_the_right_to_keep_and_bear_arms,It creates unintended incentives and moral hazard
+2,We_should_abolish_the_right_to_keep_and_bear_arms,It ensures equal access to essential services
+3,We_should_abolish_the_right_to_keep_and_bear_arms,Implementation is complex and burdensome
+4,We_should_abolish_the_right_to_keep_and_bear_arms,It protects individual freedoms and autonomy
+5,We_should_abolish_the_right_to_keep_and_bear_arms,Implementation is complex and burdensome
+6,We_should_abolish_the_right_to_keep_and_bear_arms,Implementation is complex and burdensome
+7,We_should_abolish_the_right_to_keep_and_bear_arms,It would stifle competition and innovation
+8,We_should_abolish_the_right_to_keep_and_bear_arms,It can be targeted rather than universal
+9,We_should_close_Guantanamo_Bay_detention_camp,Implementation is complex and burdensome
+10,We_should_close_Guantanamo_Bay_detention_camp,It would stifle competition and innovation
+11,We_should_close_Guantanamo_Bay_detention_camp,Evidence shows limited effectiveness
+12,We_should_close_Guantanamo_Bay_detention_camp,It increases transparency and accountability
+13,We_should_close_Guantanamo_Bay_detention_camp,It improves public safety and security
+14,We_should_close_Guantanamo_Bay_detention_camp,It risks discrimination against vulnerable groups
+15,We_should_close_Guantanamo_Bay_detention_camp,Harms outweigh the potential benefits
+16,We_should_close_Guantanamo_Bay_detention_camp,It aligns with constitutional principles
+17,We_should_close_Guantanamo_Bay_detention_camp,International experience suggests it works
+18,We_should_introduce_compulsory_voting,It protects individual freedoms and autonomy
+19,We_should_introduce_compulsory_voting,There are better alternatives available
+20,We_should_introduce_compulsory_voting,There are better alternatives available
+21,We_should_introduce_compulsory_voting,It shifts costs to future generations
+22,We_should_introduce_compulsory_voting,It ensures equal access to essential services
+23,We_should_introduce_compulsory_voting,It conflicts with constitutional rights
+24,We_should_introduce_compulsory_voting,It protects individual freedoms and autonomy
+25,Assisted_suicide_should_be_a_criminal_offence,It supports innovation and economic growth
+26,Assisted_suicide_should_be_a_criminal_offence,It conflicts with constitutional rights
+27,Assisted_suicide_should_be_a_criminal_offence,International experience suggests it works
+28,Assisted_suicide_should_be_a_criminal_offence,It aligns with constitutional principles
+29,Assisted_suicide_should_be_a_criminal_offence,Evidence shows limited effectiveness
+30,Assisted_suicide_should_be_a_criminal_offence,Benefits outweigh the potential harms
+31,Assisted_suicide_should_be_a_criminal_offence,Implementation is complex and burdensome
+32,Assisted_suicide_should_be_a_criminal_offence,International experience suggests it works
+33,Assisted_suicide_should_be_a_criminal_offence,It increases transparency and accountability
+34,Assisted_suicide_should_be_a_criminal_offence,It creates unintended incentives and moral hazard
+35,We_should_legalize_sex_selection,International experience suggests it works
+36,We_should_legalize_sex_selection,It increases transparency and accountability
+37,We_should_legalize_sex_selection,It increases transparency and accountability
+38,We_should_legalize_sex_selection,Benefits outweigh the potential harms
+39,We_should_legalize_sex_selection,It supports innovation and economic growth
+40,We_should_legalize_sex_selection,The policy reduces overall costs for taxpayers
+41,We_should_legalize_sex_selection,The policy reduces overall costs for taxpayers
+42,We_should_legalize_sex_selection,It ensures equal access to essential services
+43,We_should_legalize_sex_selection,Benefits outweigh the potential harms
+44,We_should_legalize_sex_selection,It ensures equal access to essential services
+45,We_should_legalize_sex_selection,There are better alternatives available
+46,We_should_abolish_capital_punishment,Implementation is complex and burdensome
+47,We_should_abolish_capital_punishment,It supports innovation and economic growth
+48,We_should_abolish_capital_punishment,International experience warns against it
+49,We_should_abolish_capital_punishment,There are better alternatives available
+50,We_should_abolish_capital_punishment,It creates unintended incentives and moral hazard
+51,We_should_abolish_capital_punishment,Harms outweigh the potential benefits
+52,We_should_abolish_capital_punishment,It protects individual freedoms and autonomy
+53,We_should_abolish_capital_punishment,It risks discrimination against vulnerable groups
+54,We_should_abolish_capital_punishment,There are better alternatives available
+55,We_should_abolish_capital_punishment,It improves public safety and security
+56,We_should_legalize_cannabis,It increases transparency and accountability
+57,We_should_legalize_cannabis,Implementation is complex and burdensome
+58,We_should_legalize_cannabis,It ensures equal access to essential services
+59,We_should_legalize_cannabis,International experience warns against it
+60,We_should_legalize_cannabis,International experience suggests it works
+61,We_should_legalize_cannabis,Evidence shows limited effectiveness
+62,We_should_legalize_cannabis,International experience suggests it works
+63,We_should_legalize_cannabis,Harms outweigh the potential benefits
+64,We_should_legalize_cannabis,International experience suggests it works
+65,We_should_legalize_cannabis,International experience suggests it works
+66,We_should_legalize_cannabis,Evidence shows limited effectiveness
+67,We_should_fight_for_the_abolition_of_nuclear_weapons,It supports innovation and economic growth
+68,We_should_fight_for_the_abolition_of_nuclear_weapons,It supports innovation and economic growth
+69,We_should_fight_for_the_abolition_of_nuclear_weapons,It ensures equal access to essential services
+70,We_should_legalize_prostitution,It protects individual freedoms and autonomy
+71,We_should_legalize_prostitution,It ensures equal access to essential services
+72,We_should_legalize_prostitution,It ensures equal access to essential services
+73,We_should_legalize_prostitution,It ensures equal access to essential services
+74,We_should_legalize_prostitution,It can be targeted rather than universal
+75,We_should_legalize_prostitution,It supports innovation and economic growth
+76,We_should_legalize_prostitution,International experience warns against it
+77,We_should_legalize_prostitution,It improves public safety and security
+78,We_should_legalize_prostitution,It would stifle competition and innovation
+79,We_should_subsidize_journalism,It would stifle competition and innovation
+80,We_should_subsidize_journalism,Implementation is complex and burdensome
+81,We_should_subsidize_journalism,The policy reduces overall costs for taxpayers
+82,We_should_subsidize_journalism,It risks discrimination against vulnerable groups
+83,We_should_subsidize_journalism,It shifts costs to future generations
+84,We_should_subsidize_journalism,It risks discrimination against vulnerable groups
+85,We_should_subsidize_journalism,It conflicts with constitutional rights
+86,We_should_abandon_marriage,Evidence shows limited effectiveness
+87,We_should_abandon_marriage,It ensures equal access to essential services
+88,We_should_abandon_marriage,It protects individual freedoms and autonomy
+89,We_should_abandon_marriage,Implementation is complex and burdensome
+90,We_should_abandon_marriage,It conflicts with constitutional rights
+91,We_should_abandon_marriage,It shifts costs to future generations
+92,We_should_abandon_marriage,Harms outweigh the potential benefits
+93,We_should_abandon_marriage,It would stifle competition and innovation
+94,We_should_abandon_marriage,The policy reduces overall costs for taxpayers
+95,We_should_ban_the_use_of_child_actors,There are better alternatives available
+96,We_should_ban_the_use_of_child_actors,It ensures equal access to essential services
+97,We_should_ban_the_use_of_child_actors,It ensures equal access to essential services
+98,We_should_ban_the_use_of_child_actors,Benefits outweigh the potential harms
+99,We_should_ban_the_use_of_child_actors,It creates unintended incentives and moral hazard
+100,We_should_ban_the_use_of_child_actors,International experience suggests it works
+101,We_should_ban_the_use_of_child_actors,Implementation is complex and burdensome
+102,We_should_ban_the_use_of_child_actors,It shifts costs to future generations
+103,We_should_ban_the_use_of_child_actors,It protects individual freedoms and autonomy
+104,We_should_ban_the_use_of_child_actors,Evidence shows limited effectiveness
+105,We_should_subsidize_space_exploration,It can be targeted rather than universal
+106,We_should_subsidize_space_exploration,It would stifle competition and innovation
+107,We_should_subsidize_space_exploration,Evidence shows limited effectiveness
+108,We_should_subsidize_space_exploration,International experience suggests it works
+109,We_should_subsidize_space_exploration,International experience suggests it works
+110,We_should_subsidize_space_exploration,It shifts costs to future generations
+111,We_should_subsidize_space_exploration,It would stifle competition and innovation
+112,We_should_subsidize_space_exploration,It improves public safety and security
+113,We_should_subsidize_space_exploration,Evidence shows limited effectiveness
+114,We_should_adopt_an_austerity_regime,International experience suggests it works
+115,We_should_adopt_an_austerity_regime,It increases transparency and accountability
+116,We_should_adopt_an_austerity_regime,Implementation is complex and burdensome
+117,We_should_adopt_an_austerity_regime,There are better alternatives available
+118,We_should_adopt_an_austerity_regime,It can be targeted rather than universal
+119,We_should_adopt_an_austerity_regime,It supports innovation and economic growth
+120,We_should_adopt_an_austerity_regime,International experience suggests it works
+121,We_should_adopt_an_austerity_regime,Benefits outweigh the potential harms
+122,We_should_adopt_an_austerity_regime,Implementation is complex and burdensome
+123,We_should_adopt_an_austerity_regime,It ensures equal access to essential services
+124,We_should_end_mandatory_retirement,International experience warns against it
+125,We_should_end_mandatory_retirement,It creates unintended incentives and moral hazard
+126,We_should_end_mandatory_retirement,Implementation is complex and burdensome
+127,We_should_end_mandatory_retirement,It creates unintended incentives and moral hazard
+128,We_should_end_mandatory_retirement,It creates unintended incentives and moral hazard
+129,We_should_end_mandatory_retirement,It supports innovation and economic growth
+130,We_should_end_mandatory_retirement,It shifts costs to future generations
+131,We_should_adopt_atheism,Evidence shows limited effectiveness
+132,We_should_adopt_atheism,Benefits outweigh the potential harms
+133,We_should_adopt_atheism,It shifts costs to future generations
+134,We_should_adopt_atheism,The policy reduces overall costs for taxpayers
+135,We_should_adopt_atheism,The policy reduces overall costs for taxpayers
+136,We_should_adopt_atheism,International experience suggests it works
+137,We_should_adopt_atheism,It improves public safety and security
+138,Homeschooling_should_be_banned,It aligns with constitutional principles
+139,Homeschooling_should_be_banned,It creates unintended incentives and moral hazard
+140,Homeschooling_should_be_banned,Harms outweigh the potential benefits
+141,Homeschooling_should_be_banned,There are better alternatives available
+142,Homeschooling_should_be_banned,Implementation is complex and burdensome
+143,Homeschooling_should_be_banned,It risks discrimination against vulnerable groups
+144,Homeschooling_should_be_banned,It increases transparency and accountability
+145,Homeschooling_should_be_banned,It can be targeted rather than universal
+146,Homeschooling_should_be_banned,Benefits outweigh the potential harms
+147,Homeschooling_should_be_banned,It can be targeted rather than universal
+148,We_should_prohibit_flag_burning,Implementation is complex and burdensome
+149,We_should_prohibit_flag_burning,It creates unintended incentives and moral hazard
+150,We_should_prohibit_flag_burning,It risks discrimination against vulnerable groups
+151,We_should_prohibit_flag_burning,The policy reduces overall costs for taxpayers
+152,We_should_ban_private_military_companies,Evidence shows limited effectiveness
+153,We_should_ban_private_military_companies,It protects individual freedoms and autonomy
+154,We_should_ban_private_military_companies,International experience warns against it
+155,We_should_ban_private_military_companies,It risks discrimination against vulnerable groups
+156,We_should_ban_private_military_companies,It improves public safety and security
+157,We_should_ban_private_military_companies,It would stifle competition and innovation
+158,We_should_ban_private_military_companies,Benefits outweigh the potential harms
+159,We_should_ban_private_military_companies,International experience warns against it
+160,We_should_ban_private_military_companies,Implementation is complex and burdensome
+161,The_vow_of_celibacy_should_be_abandoned,It creates unintended incentives and moral hazard
+162,The_vow_of_celibacy_should_be_abandoned,It would stifle competition and innovation
+163,The_vow_of_celibacy_should_be_abandoned,It aligns with constitutional principles
+164,The_vow_of_celibacy_should_be_abandoned,It aligns with constitutional principles
+165,The_vow_of_celibacy_should_be_abandoned,The policy reduces overall costs for taxpayers
+166,The_vow_of_celibacy_should_be_abandoned,It supports innovation and economic growth
+167,The_vow_of_celibacy_should_be_abandoned,It can be targeted rather than universal
+168,The_vow_of_celibacy_should_be_abandoned,It can be targeted rather than universal
+169,The_vow_of_celibacy_should_be_abandoned,Implementation is complex and burdensome
+170,The_vow_of_celibacy_should_be_abandoned,There are better alternatives available
+171,The_vow_of_celibacy_should_be_abandoned,It improves public safety and security
+172,We_should_subsidize_vocational_education,The policy reduces overall costs for taxpayers
+173,We_should_subsidize_vocational_education,It ensures equal access to essential services
+174,We_should_subsidize_vocational_education,It conflicts with constitutional rights
+175,We_should_subsidize_vocational_education,It aligns with constitutional principles
+176,We_should_subsidize_vocational_education,International experience warns against it
+177,We_should_subsidize_vocational_education,International experience warns against it
+178,We_should_subsidize_vocational_education,It supports innovation and economic growth
+179,We_should_subsidize_vocational_education,Evidence shows limited effectiveness
+180,We_should_abolish_intellectual_property_rights,It shifts costs to future generations
+181,We_should_abolish_intellectual_property_rights,There are better alternatives available
+182,We_should_abolish_intellectual_property_rights,International experience suggests it works
+183,We_should_abolish_intellectual_property_rights,It protects individual freedoms and autonomy
+184,We_should_abolish_intellectual_property_rights,It improves public safety and security
+185,We_should_abolish_intellectual_property_rights,It improves public safety and security
+186,We_should_abolish_intellectual_property_rights,Implementation is complex and burdensome
+187,We_should_abolish_intellectual_property_rights,The policy reduces overall costs for taxpayers
+188,We_should_abolish_intellectual_property_rights,The policy reduces overall costs for taxpayers
+189,We_should_abolish_intellectual_property_rights,It risks discrimination against vulnerable groups
+190,We_should_adopt_libertarianism,International experience suggests it works
+191,We_should_adopt_libertarianism,International experience suggests it works
+192,We_should_adopt_libertarianism,It risks discrimination against vulnerable groups
+193,We_should_adopt_libertarianism,It creates unintended incentives and moral hazard
+194,We_should_adopt_libertarianism,It ensures equal access to essential services
+195,We_should_adopt_libertarianism,It increases transparency and accountability
+196,We_should_adopt_libertarianism,It conflicts with constitutional rights
+197,We_should_adopt_libertarianism,There are better alternatives available
+198,We_should_adopt_libertarianism,Harms outweigh the potential benefits
+199,We_should_fight_urbanization,Harms outweigh the potential benefits
+200,We_should_fight_urbanization,It supports innovation and economic growth
+201,We_should_fight_urbanization,Benefits outweigh the potential harms
+202,We_should_fight_urbanization,It risks discrimination against vulnerable groups
+203,We_should_fight_urbanization,It protects individual freedoms and autonomy
+204,We_should_fight_urbanization,It creates unintended incentives and moral hazard
+205,We_should_fight_urbanization,It ensures equal access to essential services
+206,We_should_end_affirmative_action,It aligns with constitutional principles
+207,We_should_end_affirmative_action,There are better alternatives available
+208,We_should_end_affirmative_action,It shifts costs to future generations
+209,We_should_end_affirmative_action,Implementation is complex and burdensome
+210,We_should_end_affirmative_action,It would stifle competition and innovation
+211,We_should_end_affirmative_action,It increases transparency and accountability
+212,We_should_end_affirmative_action,It would stifle competition and innovation
+213,We_should_end_affirmative_action,It conflicts with constitutional rights
+214,We_should_prohibit_women_in_combat,It improves public safety and security
+215,We_should_prohibit_women_in_combat,It improves public safety and security
+216,We_should_prohibit_women_in_combat,It conflicts with constitutional rights
+217,We_should_prohibit_women_in_combat,International experience suggests it works
+218,We_should_prohibit_women_in_combat,International experience warns against it
+219,We_should_prohibit_women_in_combat,It conflicts with constitutional rights
+220,We_should_prohibit_women_in_combat,Benefits outweigh the potential harms
+221,We_should_prohibit_women_in_combat,The policy reduces overall costs for taxpayers
+222,We_should_prohibit_women_in_combat,It supports innovation and economic growth
+223,We_should_prohibit_women_in_combat,It supports innovation and economic growth
+224,We_should_prohibit_women_in_combat,It can be targeted rather than universal
+225,We_should_abandon_the_use_of_school_uniform,International experience suggests it works
+226,We_should_abandon_the_use_of_school_uniform,There are better alternatives available
+227,We_should_abandon_the_use_of_school_uniform,It increases transparency and accountability
+228,We_should_abandon_the_use_of_school_uniform,Implementation is complex and burdensome
+229,We_should_abandon_the_use_of_school_uniform,There are better alternatives available
+230,We_should_abandon_the_use_of_school_uniform,Implementation is complex and burdensome
+231,We_should_abandon_the_use_of_school_uniform,It conflicts with constitutional rights
+232,We_should_abandon_the_use_of_school_uniform,It can be targeted rather than universal
+233,We_should_abandon_the_use_of_school_uniform,Implementation is complex and burdensome
+234,We_should_abandon_the_use_of_school_uniform,It increases transparency and accountability
+235,We_should_ban_human_cloning,Evidence shows limited effectiveness
+236,We_should_ban_human_cloning,It creates unintended incentives and moral hazard
+237,We_should_ban_human_cloning,It aligns with constitutional principles
+238,We_should_ban_human_cloning,Implementation is complex and burdensome
+239,We_should_ban_human_cloning,It would stifle competition and innovation
+240,We_should_ban_human_cloning,Evidence shows limited effectiveness
+241,We_should_ban_human_cloning,International experience warns against it
+242,We_should_ban_human_cloning,Benefits outweigh the potential harms
+243,We_should_ban_human_cloning,Implementation is complex and burdensome
+244,Routine child vaccinations should be mandatory,There are better alternatives available
+245,Routine child vaccinations should be mandatory,It creates unintended incentives and moral hazard
+246,Routine child vaccinations should be mandatory,It improves public safety and security
+247,Routine child vaccinations should be mandatory,Implementation is complex and burdensome
+248,Routine child vaccinations should be mandatory,It shifts costs to future generations
+249,Routine child vaccinations should be mandatory,It supports innovation and economic growth
+250,Routine child vaccinations should be mandatory,It supports innovation and economic growth
+251,Routine child vaccinations should be mandatory,It risks discrimination against vulnerable groups
+252,Routine child vaccinations should be mandatory,International experience suggests it works
+253,Social media platforms should be regulated by the government,The policy reduces overall costs for taxpayers
+254,Social media platforms should be regulated by the government,It ensures equal access to essential services
+255,Social media platforms should be regulated by the government,It creates unintended incentives and moral hazard
+256,Social media platforms should be regulated by the government,It ensures equal access to essential services
+257,Social media platforms should be regulated by the government,It increases transparency and accountability
+258,Social media platforms should be regulated by the government,It ensures equal access to essential services
+259,Social media platforms should be regulated by the government,It improves public safety and security
+260,Social media platforms should be regulated by the government,Evidence shows limited effectiveness
+261,Social media platforms should be regulated by the government,Harms outweigh the potential benefits
+262,Social media platforms should be regulated by the government,It increases transparency and accountability
+263,The USA is a good country to live in,It risks discrimination against vulnerable groups
+264,The USA is a good country to live in,Benefits outweigh the potential harms
+265,The USA is a good country to live in,It creates unintended incentives and moral hazard
+266,The USA is a good country to live in,It protects individual freedoms and autonomy
+267,The USA is a good country to live in,Implementation is complex and burdensome
+268,The USA is a good country to live in,It aligns with constitutional principles
+269,The USA is a good country to live in,It creates unintended incentives and moral hazard
+270,The USA is a good country to live in,It protects individual freedoms and autonomy
+271,The USA is a good country to live in,It creates unintended incentives and moral hazard
+272,The USA is a good country to live in,It risks discrimination against vulnerable groups
+273,The USA is a good country to live in,International experience warns against it
+274,The USA is a good country to live in,Evidence shows limited effectiveness
+275,The USA is a good country to live in,It ensures equal access to essential services
+276,The USA is a good country to live in,It conflicts with constitutional rights

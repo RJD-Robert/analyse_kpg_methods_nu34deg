@@ -1,0 +1,244 @@
+key_point_id,topic,key_point
+1,We_should_abolish_the_right_to_keep_and_bear_arms,Gun control is ineffective
+2,We_should_abolish_the_right_to_keep_and_bear_arms,Gun ownership is a right
+3,We_should_abolish_the_right_to_keep_and_bear_arms,Gun ownership is necessary for hunting/sports-shooting
+4,We_should_abolish_the_right_to_keep_and_bear_arms,Gun ownership promotes self protection
+5,We_should_abolish_the_right_to_keep_and_bear_arms,Banning guns would save lives
+6,We_should_abolish_the_right_to_keep_and_bear_arms,Guns can fall into the wrong hands
+7,We_should_abolish_the_right_to_keep_and_bear_arms,Guns lead to accidental deaths
+8,We_should_abolish_the_right_to_keep_and_bear_arms,Gun ownership allows for mass-shootings/general gun violence
+9,We_should_close_Guantanamo_Bay_detention_camp,Closing the Guantanamo bay detention camp would harm national security
+10,We_should_close_Guantanamo_Bay_detention_camp,The Guantanamo bay detention camp is better for prisoners than the alternatives
+11,We_should_close_Guantanamo_Bay_detention_camp,The Guantanamo bay detention camp is essential to gain intelligence
+12,We_should_close_Guantanamo_Bay_detention_camp,Detainees have the right to trial in US courts
+13,We_should_close_Guantanamo_Bay_detention_camp,The Guantanamo bay detention camp harms the US image/reputation/institutions
+14,We_should_close_Guantanamo_Bay_detention_camp,The Guantanamo bay detention camp is expensive
+15,We_should_close_Guantanamo_Bay_detention_camp,The Guantanamo bay detention camp personnel commit crimes against the prisoners
+16,We_should_close_Guantanamo_Bay_detention_camp,unjust treatment/tactics are used in the Guantanamo bay detention camp
+17,We_should_close_Guantanamo_Bay_detention_camp,The Guantanamo bay detention camp is a symbol of discrimination/injustice
+18,We_should_introduce_compulsory_voting,Abstaining from a vote is also reflecting your preferences
+19,We_should_introduce_compulsory_voting,Citizens have a right not to vote
+20,We_should_introduce_compulsory_voting,Compulsory voting can cause people to vote in an uninformed/random manner
+21,We_should_introduce_compulsory_voting,Not everyone has the ability to go to vote
+22,We_should_introduce_compulsory_voting,Compulsory voting increases representation
+23,We_should_introduce_compulsory_voting,Compulsory voting will cause more people to become interested in politics
+24,We_should_introduce_compulsory_voting,People have an obligation to vote
+25,Assisted_suicide_should_be_a_criminal_offence,Assisted suicide gives dignity to the person that wants to commit it
+26,Assisted_suicide_should_be_a_criminal_offence,Assisted suicide reduces suffering
+27,Assisted_suicide_should_be_a_criminal_offence,People should have the freedom to choose to end their life
+28,Assisted_suicide_should_be_a_criminal_offence,The terminally ill would benefit from assisted suicide
+29,Assisted_suicide_should_be_a_criminal_offence,Assisted suicide allows people to solicit someone to die to their own benefit
+30,Assisted_suicide_should_be_a_criminal_offence,Assisted suicide is akin to killing someone
+31,Assisted_suicide_should_be_a_criminal_offence,Assisted suicide should not be allowed because many times people can still get better
+32,Assisted_suicide_should_be_a_criminal_offence,Assisted suicide violates the doctor's role
+33,Assisted_suicide_should_be_a_criminal_offence,People do not have the right to self-harm/harm others
+34,Assisted_suicide_should_be_a_criminal_offence,People who are ill do not have clear judgement and are in need of help
+35,We_should_legalize_sex_selection,Sex selection can lead to gender imbalance
+36,We_should_legalize_sex_selection,Sex selection is against tradition
+37,We_should_legalize_sex_selection,Sex selection is expensive
+38,We_should_legalize_sex_selection,Sex selection reaffirms gender stereotypes/biases
+39,We_should_legalize_sex_selection,Sex selection will create abortions/infanticide
+40,We_should_legalize_sex_selection,It is unethical/unhealthy for parents to intervene
+41,We_should_legalize_sex_selection,It is within the freedoms of the parents to select the sex of the child
+42,We_should_legalize_sex_selection,Sex selection allows for better family planning
+43,We_should_legalize_sex_selection,Sex selection prevents diseases in the child
+44,We_should_legalize_sex_selection,Sex selection will prevent abortions/infanticide
+45,We_should_legalize_sex_selection,Sex selection makes the family more happy/complete
+46,We_should_abolish_capital_punishment,The death penalty helps the victim/their family
+47,We_should_abolish_capital_punishment,The death penalty is proportional
+48,We_should_abolish_capital_punishment,The death penalty prevents crimes
+49,We_should_abolish_capital_punishment,The death penalty saves costs to the state
+50,We_should_abolish_capital_punishment,The death penalty is acceptable in cases of severe crimes
+51,We_should_abolish_capital_punishment,State-sanctioned killing is principally wrong
+52,We_should_abolish_capital_punishment,The death penalty harms the disenfranchised
+53,We_should_abolish_capital_punishment,The death penalty irreversible
+54,We_should_abolish_capital_punishment,The death penalty is a waste of resources
+55,We_should_abolish_capital_punishment,The death penalty is ineffective in deterring crimes
+56,We_should_legalize_cannabis,Cannabis harms the body
+57,We_should_legalize_cannabis,Cannabis increases lack-of-judgement/accidents
+58,We_should_legalize_cannabis,Cannabis is a gateway-drug/addictive
+59,We_should_legalize_cannabis,Legal cannabis can be getting to the hand of underage teenagers/children
+60,We_should_legalize_cannabis,Legal cannabis will boost the black-market/criminal activity
+61,We_should_legalize_cannabis,Cannabis is financially beneficial
+62,We_should_legalize_cannabis,Cannabis is safe/healthy/pain-relief
+63,We_should_legalize_cannabis,If cannabis was legalized it could be regulated
+64,We_should_legalize_cannabis,People should be allowed to do whatever they want to their own bodies
+65,We_should_legalize_cannabis,Alcohol and tobacco are more harmful drugs yet remain legal
+66,We_should_legalize_cannabis,Legalizing cannabis will reduce black-market/criminal activity
+67,We_should_fight_for_the_abolition_of_nuclear_weapons,Nuclear weapons is essential for protection and deterrence
+68,We_should_fight_for_the_abolition_of_nuclear_weapons,Nuclear weapons can fall into the wrong hands
+69,We_should_fight_for_the_abolition_of_nuclear_weapons,Nuclear weapons provoke or escalate a disastrous military action
+70,We_should_legalize_prostitution,Legalization will lead to more sexually transmitted diseases
+71,We_should_legalize_prostitution,Legalizing sex work will increase immoral behaviour like pimping/organized crime/trafficking
+72,We_should_legalize_prostitution,Legalizing sex work will increase violence against women
+73,We_should_legalize_prostitution,Selling one's body is immoral
+74,We_should_legalize_prostitution,Legalizing sex work boosts the economy
+75,We_should_legalize_prostitution,"Legalizing sex work increases sex workers' benefits (e.g. health care, safe sex, unionization, etc.)"
+76,We_should_legalize_prostitution,Legalizing sex work will allow to regulate those in the profession 
+77,We_should_legalize_prostitution,Legalizing sex work will make the profession safer for women
+78,We_should_legalize_prostitution,Sex work is a valid choice over your body
+79,We_should_subsidize_journalism,Government intervention has the risk of inserting bias/harming objectivity
+80,We_should_subsidize_journalism,It is preferable to spend the money elsewhere
+81,We_should_subsidize_journalism,Journalism is like every other business and if it is not sustainable it should fail
+82,We_should_subsidize_journalism,Journalism is important to information-spreading/accountability
+83,We_should_subsidize_journalism,Subsidies will increase the quality of journalism
+84,We_should_subsidize_journalism,Subsidy increases objectivity in reporting
+85,We_should_subsidize_journalism,A subsidy is important to make journalism viable
+86,We_should_abandon_marriage,Marriage benefits children
+87,We_should_abandon_marriage,"Marriage is important for people, either generally or because of religious/traditional reasons"
+88,We_should_abandon_marriage,Marriage makes people happy
+89,We_should_abandon_marriage,Marriage makes the couple closer
+90,We_should_abandon_marriage,Marriage provides important financial benefits
+91,We_should_abandon_marriage,Marriage preserves norms that are harmful for women
+92,We_should_abandon_marriage,Marriages are unstable
+93,We_should_abandon_marriage,Marriages tie up people with unfair obligations
+94,We_should_abandon_marriage,Most of the advantages of marriage are achieved by a monogamous relationship
+95,We_should_ban_the_use_of_child_actors,Acting may be the child's dream
+96,We_should_ban_the_use_of_child_actors,Child performers achieve success/confidence
+97,We_should_ban_the_use_of_child_actors,Child performers are necessary for roles
+98,We_should_ban_the_use_of_child_actors,Child performers should not be banned as long as there is supervision/regulation
+99,We_should_ban_the_use_of_child_actors,The parents should decide for their child
+100,We_should_ban_the_use_of_child_actors,Being a performer harms the child's education
+101,We_should_ban_the_use_of_child_actors,Child performers are losing their childhood
+102,We_should_ban_the_use_of_child_actors,Child performers have a lot of pressure
+103,We_should_ban_the_use_of_child_actors,Child performers tend to develop problems later in life
+104,We_should_ban_the_use_of_child_actors,Child performers are at risk of exploitation
+105,We_should_subsidize_space_exploration,Space exploration can be carried by the private sector
+106,We_should_subsidize_space_exploration,Space exploration is expensive
+107,We_should_subsidize_space_exploration,Space exploration is ineffective
+108,We_should_subsidize_space_exploration,There are issues more important to fund than space exploration
+109,We_should_subsidize_space_exploration,Space exploration can help in colonizing the resources/lands of other planets
+110,We_should_subsidize_space_exploration,Space exploration improves science/technology
+111,We_should_subsidize_space_exploration,Space exploration is financially beneficial
+112,We_should_subsidize_space_exploration,Space exploration is necessary for the future survival of humanity
+113,We_should_subsidize_space_exploration,Space exploration unravels information about the universe
+114,We_should_adopt_an_austerity_regime,Austerity cuts access to essential services
+115,We_should_adopt_an_austerity_regime,Austerity extend recessions
+116,We_should_adopt_an_austerity_regime,Austerity is unfair to the citizens
+117,We_should_adopt_an_austerity_regime,Austerity results in lower growth
+118,We_should_adopt_an_austerity_regime,Austerity results in lower job creation
+119,We_should_adopt_an_austerity_regime,Austerity improves the economic measures
+120,We_should_adopt_an_austerity_regime,Austerity is important in the long term
+121,We_should_adopt_an_austerity_regime,Austerity is important to increase stability
+122,We_should_adopt_an_austerity_regime,Austerity is necessary to reduce deficits or pay debts
+123,We_should_adopt_an_austerity_regime,Austerity regime is essential in economically troubled times
+124,We_should_end_mandatory_retirement,A mandatory retirement age creates opportunities for other workers
+125,We_should_end_mandatory_retirement,mandatory retirement age benefits those that are about to be retired
+126,We_should_end_mandatory_retirement,A mandatory retirement age decreases institutional knowledge
+127,We_should_end_mandatory_retirement,A mandatory retirement age harms the economy
+128,We_should_end_mandatory_retirement,A mandatory retirement is not fair/discriminatory
+129,We_should_end_mandatory_retirement,A mandatory retirement reduces the quality of life for those forced to retire
+130,We_should_end_mandatory_retirement,We should let everyone retire when they are ready
+131,We_should_adopt_atheism,Atheism lacks morality
+132,We_should_adopt_atheism,People should choose for themselves whether Atheism should be adopted
+133,We_should_adopt_atheism,Atheism discriminates against religious people / violates freedom of religion
+134,We_should_adopt_atheism,Atheism is beneficial to the person that adopts it
+135,We_should_adopt_atheism,Atheism should be adopted since we cannot prove that God exists
+136,We_should_adopt_atheism,Religions are immoral and people should not follow them
+137,We_should_adopt_atheism,Science can adequately explain the Universe
+138,Homeschooling_should_be_banned,Homeschooling is often the best option for catering for the needs of exceptional/religious/ill/disabled students.
+139,Homeschooling_should_be_banned,Homeschools can be personalized to the child's pace/needs
+140,Homeschooling_should_be_banned,Mainstream schools have a lot of violence/bullying
+141,Homeschooling_should_be_banned,Parents should be permitted to choose the education of their children
+142,Homeschooling_should_be_banned,Parents will have more ability to pay-attention/educate their child
+143,Homeschooling_should_be_banned,The home is a good learning environment
+144,Homeschooling_should_be_banned,Mainstream schools are essential to develop social skills
+145,Homeschooling_should_be_banned,Parents are not qualified as teachers
+146,Homeschooling_should_be_banned,Homeschools cannot be regulated/standardized
+147,Homeschooling_should_be_banned,Mainstream schools are of higher educational quality
+148,We_should_prohibit_flag_burning,flag burning is an effective tool of expression/protest/critique
+149,We_should_prohibit_flag_burning,flag burning is justified due to freedom of expression
+150,We_should_prohibit_flag_burning,flag burning is an inflammatory act
+151,We_should_prohibit_flag_burning,Flags are important symbols that should be respected
+152,We_should_ban_private_military_companies,Hiring private military companies is financially beneficial
+153,We_should_ban_private_military_companies,Private military companies are well-trained/better equipped
+154,We_should_ban_private_military_companies,"Private military companies can supplement regular armies in specific tasks that armies cannot, or do not want, to do"
+155,We_should_ban_private_military_companies,Private military companies increase safety
+156,We_should_ban_private_military_companies,Private military companies are not professional
+157,We_should_ban_private_military_companies,Private military companies main interest is profit
+158,We_should_ban_private_military_companies,"Private military companies solicit engaging, or prolonging, conflict"
+159,We_should_ban_private_military_companies,Private military companies are less ethical and violate rights or commit crimes
+160,We_should_ban_private_military_companies,Private military companies cannot be trusted to be loyal to the hiring country
+161,The_vow_of_celibacy_should_be_abandoned,Celibacy allows a priest to focus on God
+162,The_vow_of_celibacy_should_be_abandoned,Celibacy is a strong religious belief
+163,The_vow_of_celibacy_should_be_abandoned,Celibacy makes the priests to be perceived as holy
+164,The_vow_of_celibacy_should_be_abandoned,Priests choose to be celibates
+165,The_vow_of_celibacy_should_be_abandoned,Religious experiences and traditions should be maintained
+166,The_vow_of_celibacy_should_be_abandoned,Removing celibacy could lead to sexually reckless acts
+167,The_vow_of_celibacy_should_be_abandoned,Celibacy is outdated
+168,The_vow_of_celibacy_should_be_abandoned,Celibacy is too pressuring/diffcult
+169,The_vow_of_celibacy_should_be_abandoned,Celibacy is unhealthy/unnatural
+170,The_vow_of_celibacy_should_be_abandoned,Celibacy leads to wrong sexual behaviour
+171,The_vow_of_celibacy_should_be_abandoned,Celibacy reduces the pool of people wanting to become priests
+172,We_should_subsidize_vocational_education,subsidizing vocational education leads to an influx in those professions
+173,We_should_subsidize_vocational_education,vocational education is not a good career choice
+174,We_should_subsidize_vocational_education,subsidizing vocational education diverts money from more worthy causes
+175,We_should_subsidize_vocational_education,subsidizing vocational education is expensive
+176,We_should_subsidize_vocational_education,subsidizing vocational education promotes those with fewer resources
+177,We_should_subsidize_vocational_education,vocational education is a good career choice
+178,We_should_subsidize_vocational_education,vocational education better fits many students
+179,We_should_subsidize_vocational_education,vocational education is beneficial for the entire market/society
+180,We_should_abolish_intellectual_property_rights,Intellectual property rights incentivize creativity/innovation
+181,We_should_abolish_intellectual_property_rights,Intellectual property rights incentivize investment in developing new products
+182,We_should_abolish_intellectual_property_rights,"People, or a business, own their innovations and should be able to be compensated for their endeavour"
+183,We_should_abolish_intellectual_property_rights,Intellectual property rights protect against stealing
+184,We_should_abolish_intellectual_property_rights,Intellectual property restricts access to important information/products
+185,We_should_abolish_intellectual_property_rights,intellectual property rights are ineffective
+186,We_should_abolish_intellectual_property_rights,Intellectual property rights are unfair
+187,We_should_abolish_intellectual_property_rights,Intellectual property rights waste money
+188,We_should_abolish_intellectual_property_rights,Intellectual property prevents the continuous improvement of a service/product
+189,We_should_abolish_intellectual_property_rights,Intellectual property rights harm creativity/innovation
+190,We_should_adopt_libertarianism,Libertarianism harms economic growth
+191,We_should_adopt_libertarianism,Libertarianism harms minorities/those who are worse off
+192,We_should_adopt_libertarianism,Libertarianism is unjust/non-equal
+193,We_should_adopt_libertarianism,Libertarianism removes essential laws/infrastructure/government services
+194,We_should_adopt_libertarianism,The government is essential to protect the rights of citizens
+195,We_should_adopt_libertarianism,Libertarianism increases freedom in the political system
+196,We_should_adopt_libertarianism,Libertarianism increases happiness/fulfilment
+197,We_should_adopt_libertarianism,Libertarianism increases economic growth
+198,We_should_adopt_libertarianism,Libertarianism increases individual freedom/liberties
+199,We_should_fight_urbanization,Cities offer more opportunities
+200,We_should_fight_urbanization,Urbanization benefits the economy
+201,We_should_fight_urbanization,Urbanization benefits the environment
+202,We_should_fight_urbanization,Restrictions on migration would benefit people in the rural areas economically/socially
+203,We_should_fight_urbanization,Urbanization causes crime
+204,We_should_fight_urbanization,Urbanization harms the environment
+205,We_should_fight_urbanization,Urbanization is causing a strain on the cities' resources
+206,We_should_end_affirmative_action,Affirmative action boosts diversity
+207,We_should_end_affirmative_action,Affirmative action is necessary to compensate for the past
+208,We_should_end_affirmative_action,Affirmative action reduces discrimination
+209,We_should_end_affirmative_action,Affirmative action diminishes the achievements of minorities
+210,We_should_end_affirmative_action,Affirmative action is ineffective
+211,We_should_end_affirmative_action,Affirmative action is not just
+212,We_should_end_affirmative_action,Affirmative action perpetuates prejudice
+213,We_should_end_affirmative_action,Affirmative action reduces quality
+214,We_should_prohibit_women_in_combat,There should be equality between men and women.
+215,We_should_prohibit_women_in_combat,Women are an asset in combat
+216,We_should_prohibit_women_in_combat,Women can create unique skills/strategies
+217,We_should_prohibit_women_in_combat,Women can overcome differences and be just as capable in combat
+218,We_should_prohibit_women_in_combat,Women should be able to serve in combat if they choose to
+219,We_should_prohibit_women_in_combat,Women should be accepted as long as they pass the tests
+220,We_should_prohibit_women_in_combat,Men are better suited to combat roles than women
+221,We_should_prohibit_women_in_combat,Women cannot overcome physical/emotional/mental barriers
+222,We_should_prohibit_women_in_combat,Women in combat can be a distraction or harm the function of the military
+223,We_should_prohibit_women_in_combat,Women should serve in safer roles
+224,We_should_prohibit_women_in_combat,Women soldier capture is a big concern
+225,We_should_abandon_the_use_of_school_uniform,Children can still express themselves using other means
+226,We_should_abandon_the_use_of_school_uniform,School uniform reduces bullying
+227,We_should_abandon_the_use_of_school_uniform,School uniforms encourage discipline or focus on learning
+228,We_should_abandon_the_use_of_school_uniform,School uniforms saves costs
+229,We_should_abandon_the_use_of_school_uniform,School uniforms create a sense of equality/unity
+230,We_should_abandon_the_use_of_school_uniform,School uniform is harming the student's self expression
+231,We_should_abandon_the_use_of_school_uniform,School uniforms are expensive
+232,We_should_abandon_the_use_of_school_uniform,School uniforms are often uncomfortable/sexist
+233,We_should_abandon_the_use_of_school_uniform,School uniform harms learning/creativity
+234,We_should_abandon_the_use_of_school_uniform,School uniforms increase conformity or harm individuality
+235,We_should_ban_human_cloning,Cloning can be used for organ replication
+236,We_should_ban_human_cloning,Cloning helps those who can’t otherwise have a child
+237,We_should_ban_human_cloning,Cloning promotes health
+238,We_should_ban_human_cloning,Cloning promotes science/research
+239,We_should_ban_human_cloning,Cloning can be used to create more advanced humans
+240,We_should_ban_human_cloning,Cloning is not understood enough yet
+241,We_should_ban_human_cloning,Cloning is unethical/anti-religious
+242,We_should_ban_human_cloning,Cloning is unnatural
+243,We_should_ban_human_cloning,Cloning is unsafe

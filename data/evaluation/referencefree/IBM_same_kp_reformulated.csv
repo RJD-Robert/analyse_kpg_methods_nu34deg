@@ -1,0 +1,277 @@
+key_point_id,topic,key_point
+1,We_should_abolish_the_right_to_keep_and_bear_arms,Owning guns is a fundamental right
+2,We_should_abolish_the_right_to_keep_and_bear_arms,People have a right to possess firearms
+3,We_should_abolish_the_right_to_keep_and_bear_arms,The right to keep arms belongs to individuals
+4,We_should_abolish_the_right_to_keep_and_bear_arms,Firearm possession is an individual liberty
+5,We_should_abolish_the_right_to_keep_and_bear_arms,Citizens are entitled to own guns
+6,We_should_abolish_the_right_to_keep_and_bear_arms,Keeping and bearing arms is a protected right
+7,We_should_abolish_the_right_to_keep_and_bear_arms,Individuals hold the right to gun ownership
+8,We_should_abolish_the_right_to_keep_and_bear_arms,Owning a firearm is a recognized right
+9,We_should_close_Guantanamo_Bay_detention_camp,Guantanamo employs unfair and abusive practices
+10,We_should_close_Guantanamo_Bay_detention_camp,Detainees there face unjust methods and treatment
+11,We_should_close_Guantanamo_Bay_detention_camp,The camp relies on tactics that violate fairness
+12,We_should_close_Guantanamo_Bay_detention_camp,Inmates are subjected to improper and unjust measures
+13,We_should_close_Guantanamo_Bay_detention_camp,Procedures at Guantanamo are ethically unacceptable
+14,We_should_close_Guantanamo_Bay_detention_camp,The facility uses coercive and unfair tactics
+15,We_should_close_Guantanamo_Bay_detention_camp,Prisoners experience rights‑violating practices there
+16,We_should_close_Guantanamo_Bay_detention_camp,Conditions involve mistreatment and unfair procedures
+17,We_should_close_Guantanamo_Bay_detention_camp,Operations there employ unjust and abusive tactics
+18,We_should_introduce_compulsory_voting,Not voting still expresses a political preference
+19,We_should_introduce_compulsory_voting,Abstention communicates a stance just like a vote
+20,We_should_introduce_compulsory_voting,Choosing not to vote signals preferences too
+21,We_should_introduce_compulsory_voting,Skipping the ballot is itself a form of expression
+22,We_should_introduce_compulsory_voting,Non‑participation reflects political intent as well
+23,We_should_introduce_compulsory_voting,Silence at the polls conveys a viewpoint
+24,We_should_introduce_compulsory_voting,Declining to vote still indicates preferences
+25,Assisted_suicide_should_be_a_criminal_offence,There is no right to harm oneself or others
+26,Assisted_suicide_should_be_a_criminal_offence,Individuals lack a right to self‑injury or harming others
+27,Assisted_suicide_should_be_a_criminal_offence,No one is entitled to cause self‑harm or harm another
+28,Assisted_suicide_should_be_a_criminal_offence,Self‑destruction or aiding it is not a protected right
+29,Assisted_suicide_should_be_a_criminal_offence,Harming oneself or others is outside individual rights
+30,Assisted_suicide_should_be_a_criminal_offence,There is no legitimate right to self‑harm
+31,Assisted_suicide_should_be_a_criminal_offence,People are not granted a right to injure themselves
+32,Assisted_suicide_should_be_a_criminal_offence,The right to harm oneself or others does not exist
+33,Assisted_suicide_should_be_a_criminal_offence,Self‑harm and harming others fall outside personal rights
+34,Assisted_suicide_should_be_a_criminal_offence,No legal or moral right permits self‑harm
+35,We_should_legalize_sex_selection,Parental interference is ethically problematic and harmful
+36,We_should_legalize_sex_selection,Parents intervening in this way is morally questionable
+37,We_should_legalize_sex_selection,Such parental intervention is unhealthy and unethical
+38,We_should_legalize_sex_selection,It’s wrong and potentially harmful for parents to meddle
+39,We_should_legalize_sex_selection,Parental meddling raises serious moral and health concerns
+40,We_should_legalize_sex_selection,Intervention by parents is ethically unsound
+41,We_should_legalize_sex_selection,Parents should not intrude; it’s harmful and unethical
+42,We_should_legalize_sex_selection,Ethical and health risks make parental intervention wrong
+43,We_should_legalize_sex_selection,Parental intervention here breaches ethical norms
+44,We_should_legalize_sex_selection,Such parental control is morally and medically problematic
+45,We_should_legalize_sex_selection,Parents altering this is ethically questionable and unsafe
+46,We_should_abolish_capital_punishment,Capital punishment consumes resources without benefit
+47,We_should_abolish_capital_punishment,The death penalty is costly and inefficient
+48,We_should_abolish_capital_punishment,It wastes public funds with little return
+49,We_should_abolish_capital_punishment,Executing inmates is an expensive policy
+50,We_should_abolish_capital_punishment,Resources are squandered on capital cases
+51,We_should_abolish_capital_punishment,It’s a fiscally wasteful punishment
+52,We_should_abolish_capital_punishment,Death sentences drain budgets unnecessarily
+53,We_should_abolish_capital_punishment,The system spends too much for minimal effect
+54,We_should_abolish_capital_punishment,Public money is burned on executions
+55,We_should_abolish_capital_punishment,Capital cases are a poor use of resources
+56,We_should_legalize_cannabis,Legal cannabis brings economic gains
+57,We_should_legalize_cannabis,Taxed cannabis boosts public revenues
+58,We_should_legalize_cannabis,Market legalization creates jobs and income
+59,We_should_legalize_cannabis,Economies benefit from a legal cannabis industry
+60,We_should_legalize_cannabis,Regulation unlocks significant fiscal benefits
+61,We_should_legalize_cannabis,Legal sales generate substantial tax income
+62,We_should_legalize_cannabis,The cannabis sector stimulates economic activity
+63,We_should_legalize_cannabis,Legalization yields clear financial benefits
+64,We_should_legalize_cannabis,Public coffers gain from cannabis taxes
+65,We_should_legalize_cannabis,Legal markets reduce costs and add revenue
+66,We_should_legalize_cannabis,The economy profits from legalization
+67,We_should_fight_for_the_abolition_of_nuclear_weapons,Nuclear arms are seen as crucial for deterrence
+68,We_should_fight_for_the_abolition_of_nuclear_weapons,Deterrence relies on the protection nuclear weapons provide
+69,We_should_fight_for_the_abolition_of_nuclear_weapons,Nuclear arsenals are argued to ensure security
+70,We_should_legalize_prostitution,Legalization would improve safety for women in sex work
+71,We_should_legalize_prostitution,Women in the industry would be safer under legal frameworks
+72,We_should_legalize_prostitution,Bringing sex work into the law increases protection for women
+73,We_should_legalize_prostitution,Regulation enhances safety for female sex workers
+74,We_should_legalize_prostitution,Legal status reduces risks faced by women in sex work
+75,We_should_legalize_prostitution,Legal frameworks can make the trade safer for women
+76,We_should_legalize_prostitution,Women’s safety improves when sex work is regulated
+77,We_should_legalize_prostitution,Decriminalization increases safety protections for women
+78,We_should_legalize_prostitution,Legal recognition helps protect women in the sector
+79,We_should_subsidize_journalism,State support can inject bias and undermine objectivity
+80,We_should_subsidize_journalism,Public funding risks skewing coverage
+81,We_should_subsidize_journalism,Government involvement may compromise neutrality
+82,We_should_subsidize_journalism,Subsidies could taint independence and balance
+83,We_should_subsidize_journalism,Official funding threatens editorial objectivity
+84,We_should_subsidize_journalism,State money might distort journalistic fairness
+85,We_should_subsidize_journalism,Public subsidies risk biasing reporting
+86,We_should_abandon_marriage,Marriage binds people with unequal obligations
+87,We_should_abandon_marriage,The institution imposes obligations that aren’t fair
+88,We_should_abandon_marriage,Marriage saddles partners with unjust duties
+89,We_should_abandon_marriage,It restricts people through one‑sided commitments
+90,We_should_abandon_marriage,Partners face inequitable expectations in marriage
+91,We_should_abandon_marriage,Marriage creates burdensome uneven obligations
+92,We_should_abandon_marriage,It ties individuals down with unfair commitments
+93,We_should_abandon_marriage,Marital roles often impose unjust constraints
+94,We_should_abandon_marriage,Marriage binds people to obligations that feel unfair
+95,We_should_ban_the_use_of_child_actors,Child stars often face long‑term difficulties
+96,We_should_ban_the_use_of_child_actors,Early fame is linked to later life problems
+97,We_should_ban_the_use_of_child_actors,Kids in show business frequently struggle as adults
+98,We_should_ban_the_use_of_child_actors,Performing young can lead to future difficulties
+99,We_should_ban_the_use_of_child_actors,Child acting is associated with later psychological issues
+100,We_should_ban_the_use_of_child_actors,Former child actors often encounter adult challenges
+101,We_should_ban_the_use_of_child_actors,Youth performance careers can cause long‑term harm
+102,We_should_ban_the_use_of_child_actors,Young performers are at risk of later issues
+103,We_should_ban_the_use_of_child_actors,Starting careers as kids can have lasting downsides
+104,We_should_ban_the_use_of_child_actors,Child performers frequently develop problems later
+105,We_should_subsidize_space_exploration,Exploring space is vital for humanity’s long‑term survival
+106,We_should_subsidize_space_exploration,Human survival may depend on advancing space exploration
+107,We_should_subsidize_space_exploration,Space efforts are key to our species’ future
+108,We_should_subsidize_space_exploration,To endure humanity must push into space
+109,We_should_subsidize_space_exploration,Long‑term survival calls for investment in space
+110,We_should_subsidize_space_exploration,Our future security requires space exploration
+111,We_should_subsidize_space_exploration,Exploration beyond Earth underpins human survival prospects
+112,We_should_subsidize_space_exploration,Survival in the long run hinges on space programs
+113,We_should_subsidize_space_exploration,Humanity’s future may rest on going to space
+114,We_should_adopt_an_austerity_regime,Belt‑tightening is needed to cut deficits and service debt
+115,We_should_adopt_an_austerity_regime,Spending cuts are required to lower deficits
+116,We_should_adopt_an_austerity_regime,Deficit reduction calls for austerity measures
+117,We_should_adopt_an_austerity_regime,To repay debt we must restrain spending
+118,We_should_adopt_an_austerity_regime,Strict budgets are essential for debt control
+119,We_should_adopt_an_austerity_regime,Fiscal tightening is required to balance the books
+120,We_should_adopt_an_austerity_regime,Reducing deficits necessitates austerity
+121,We_should_adopt_an_austerity_regime,Debt service needs spending restraint
+122,We_should_adopt_an_austerity_regime,Tight fiscal policy is needed to lower debt
+123,We_should_adopt_an_austerity_regime,Austerity helps curb deficits and debt
+124,We_should_end_mandatory_retirement,Fixed retirement ages open jobs for others
+125,We_should_end_mandatory_retirement,Mandatory retirement frees positions for newcomers
+126,We_should_end_mandatory_retirement,Set retirement ages create openings for younger staff
+127,We_should_end_mandatory_retirement,Requiring retirement makes room for new hires
+128,We_should_end_mandatory_retirement,Obligatory retirement turns over roles to others
+129,We_should_end_mandatory_retirement,Compulsory retirement opens career paths for others
+130,We_should_end_mandatory_retirement,Forcing retirement creates vacancies for the workforce
+131,We_should_adopt_atheism,Atheism is criticized as offering no moral foundation
+132,We_should_adopt_atheism,Some argue atheism provides insufficient moral guidance
+133,We_should_adopt_atheism,Critics claim atheism lacks a moral compass
+134,We_should_adopt_atheism,It’s said atheism doesn’t ground ethics
+135,We_should_adopt_atheism,People allege atheism offers weak moral bases
+136,We_should_adopt_atheism,Some see atheism as morally empty
+137,We_should_adopt_atheism,Atheism is viewed by critics as amoral
+138,Homeschooling_should_be_banned,Home schooling is hard to regulate or standardize
+139,Homeschooling_should_be_banned,Regulation and standards are difficult for homeschools
+140,Homeschooling_should_be_banned,Homeschooling resists consistent oversight
+141,Homeschooling_should_be_banned,It’s challenging to enforce standards in homeschools
+142,Homeschooling_should_be_banned,Homeschools lack uniform regulation
+143,Homeschooling_should_be_banned,Standardization of homeschools is unreliable
+144,Homeschooling_should_be_banned,Proper oversight of homeschools is limited
+145,Homeschooling_should_be_banned,Homeschooling often evades effective regulation
+146,Homeschooling_should_be_banned,Ensuring standards in homeschools is difficult
+147,Homeschooling_should_be_banned,Homeschooling lacks consistent regulatory control
+148,We_should_prohibit_flag_burning,Free speech protections justify flag burning
+149,We_should_prohibit_flag_burning,Flag desecration is defended as expression
+150,We_should_prohibit_flag_burning,Freedom of expression covers burning the flag
+151,We_should_prohibit_flag_burning,Flag burning falls under expressive rights
+152,We_should_ban_private_military_companies,PMCs have poor ethics and abuse rights
+153,We_should_ban_private_military_companies,Such firms often commit violations and crimes
+154,We_should_ban_private_military_companies,Private contractors frequently breach human rights
+155,We_should_ban_private_military_companies,Their record shows unethical conduct and abuses
+156,We_should_ban_private_military_companies,PMCs are prone to rights violations
+157,We_should_ban_private_military_companies,They operate with weak accountability and ethical lapses
+158,We_should_ban_private_military_companies,Crimes and rights abuses mar PMC operations
+159,We_should_ban_private_military_companies,Ethical standards are often compromised by PMCs
+160,We_should_ban_private_military_companies,These companies frequently overstep legal and moral bounds
+161,The_vow_of_celibacy_should_be_abandoned,Ending celibacy may encourage sexual irresponsibility
+162,The_vow_of_celibacy_should_be_abandoned,Dropping celibacy might prompt reckless behavior
+163,The_vow_of_celibacy_should_be_abandoned,Without celibacy sexual misconduct could rise
+164,The_vow_of_celibacy_should_be_abandoned,Abolishing celibacy risks imprudent sexual activity
+165,The_vow_of_celibacy_should_be_abandoned,Ending the vow may lead to carelessness in sex
+166,The_vow_of_celibacy_should_be_abandoned,Eliminating celibacy could foster reckless conduct
+167,The_vow_of_celibacy_should_be_abandoned,Removing the vow might trigger irresponsible acts
+168,The_vow_of_celibacy_should_be_abandoned,Without the vow sexual recklessness could increase
+169,The_vow_of_celibacy_should_be_abandoned,Abandoning celibacy may invite imprudent behavior
+170,The_vow_of_celibacy_should_be_abandoned,Lifting celibacy can result in risky sexual conduct
+171,The_vow_of_celibacy_should_be_abandoned,Discarding celibacy could spur reckless sexual acts
+172,We_should_subsidize_vocational_education,Vocational tracks are seen as poor career options
+173,We_should_subsidize_vocational_education,Trade schooling is viewed as a weak career path
+174,We_should_subsidize_vocational_education,VET is often considered a suboptimal choice
+175,We_should_subsidize_vocational_education,Vocational education is perceived as second‑best
+176,We_should_subsidize_vocational_education,Some see vocational paths as limiting
+177,We_should_subsidize_vocational_education,Choosing VET is considered a lesser option
+178,We_should_subsidize_vocational_education,Skills training is viewed as a weaker route
+179,We_should_subsidize_vocational_education,Vocational schooling is judged a poor bet
+180,We_should_abolish_intellectual_property_rights,IP can hinder ongoing product and service improvement
+181,We_should_abolish_intellectual_property_rights,Proprietary rights slow iterative innovation
+182,We_should_abolish_intellectual_property_rights,IP protections can block incremental progress
+183,We_should_abolish_intellectual_property_rights,Exclusive rights impede continuous enhancement
+184,We_should_abolish_intellectual_property_rights,IP regimes can stifle ongoing improvement
+185,We_should_abolish_intellectual_property_rights,Protectionism in IP curbs iterative upgrades
+186,We_should_abolish_intellectual_property_rights,Patents and copyrights can slow refinement
+187,We_should_abolish_intellectual_property_rights,IP barriers obstruct continuous development
+188,We_should_abolish_intellectual_property_rights,Exclusive IP limits steady product evolution
+189,We_should_abolish_intellectual_property_rights,Ownership restrictions deter ongoing iteration
+190,We_should_adopt_libertarianism,Libertarian policies are said to spur growth
+191,We_should_adopt_libertarianism,Freer markets under libertarianism boost the economy
+192,We_should_adopt_libertarianism,Deregulation and liberty can raise GDP growth
+193,We_should_adopt_libertarianism,Economic expansion follows from limited government
+194,We_should_adopt_libertarianism,Market freedom is linked to faster growth
+195,We_should_adopt_libertarianism,Lower intervention encourages entrepreneurship and growth
+196,We_should_adopt_libertarianism,Smaller government can accelerate economic activity
+197,We_should_adopt_libertarianism,Libertarianism is associated with higher growth rates
+198,We_should_adopt_libertarianism,Limited state control fosters economic expansion
+199,We_should_fight_urbanization,Urban areas provide greater opportunities
+200,We_should_fight_urbanization,Cities are rich in prospects and options
+201,We_should_fight_urbanization,Urban life presents broader opportunities
+202,We_should_fight_urbanization,Metropolitan centers afford more chances
+203,We_should_fight_urbanization,Cities concentrate opportunity
+204,We_should_fight_urbanization,More opportunities exist in cities than elsewhere
+205,We_should_fight_urbanization,Urban hubs deliver superior opportunities
+206,We_should_end_affirmative_action,Affirmative action helps redress historical injustices
+207,We_should_end_affirmative_action,It’s needed to offset past discrimination
+208,We_should_end_affirmative_action,Policies compensate for systemic harms of the past
+209,We_should_end_affirmative_action,We require it to make up for prior exclusion
+210,We_should_end_affirmative_action,It addresses historic inequalities
+211,We_should_end_affirmative_action,Measures are needed to remedy past bias
+212,We_should_end_affirmative_action,Such action seeks to balance historic wrongs
+213,We_should_end_affirmative_action,It’s a tool to compensate for earlier injustices
+214,We_should_prohibit_women_in_combat,Women who meet the standards should serve
+215,We_should_prohibit_women_in_combat,Passing the same tests qualifies women for combat
+216,We_should_prohibit_women_in_combat,Equal standards mean women can be eligible
+217,We_should_prohibit_women_in_combat,If they meet requirements women should be allowed
+218,We_should_prohibit_women_in_combat,Qualification by merit should include women
+219,We_should_prohibit_women_in_combat,Standards‑based acceptance should apply to women too
+220,We_should_prohibit_women_in_combat,Women who qualify ought to serve in combat
+221,We_should_prohibit_women_in_combat,Women passing the tests deserve placement
+222,We_should_prohibit_women_in_combat,Eligibility should be based on meeting the same criteria
+223,We_should_prohibit_women_in_combat,Women should serve if they clear the standards
+224,We_should_prohibit_women_in_combat,Passing identical tests should admit women
+225,We_should_abandon_the_use_of_school_uniform,Uniforms can stifle learning and creativity
+226,We_should_abandon_the_use_of_school_uniform,Creativity and learning suffer under uniform rules
+227,We_should_abandon_the_use_of_school_uniform,Standard dress codes limit creative growth
+228,We_should_abandon_the_use_of_school_uniform,Uniforms suppress individual expression important for learning
+229,We_should_abandon_the_use_of_school_uniform,Creativity is curtailed by mandatory uniforms
+230,We_should_abandon_the_use_of_school_uniform,Learning thrives better without uniform constraints
+231,We_should_abandon_the_use_of_school_uniform,Uniform policies can dampen creative thinking
+232,We_should_abandon_the_use_of_school_uniform,Compulsory uniforms hinder self‑expression and learning
+233,We_should_abandon_the_use_of_school_uniform,Creative development is limited by uniforms
+234,We_should_abandon_the_use_of_school_uniform,Uniform dress codes may inhibit learning
+235,We_should_ban_human_cloning,Human cloning is viewed as unnatural
+236,We_should_ban_human_cloning,Cloning people is considered against nature
+237,We_should_ban_human_cloning,Many see cloning as not natural
+238,We_should_ban_human_cloning,Cloning humans feels inherently unnatural
+239,We_should_ban_human_cloning,It’s argued that cloning violates natural order
+240,We_should_ban_human_cloning,Cloning contradicts what’s considered natural
+241,We_should_ban_human_cloning,Human cloning is deemed unnatural by many
+242,We_should_ban_human_cloning,Cloning is often labeled unnatural
+243,We_should_ban_human_cloning,Cloning people is seen as unnatural
+244,Routine child vaccinations should be mandatory,Child vaccines should be required to stop disease spread
+245,Routine child vaccinations should be mandatory,Mandating shots helps prevent outbreaks
+246,Routine child vaccinations should be mandatory,Compulsory vaccination limits transmission
+247,Routine child vaccinations should be mandatory,Requiring vaccines curbs the spread of illness
+248,Routine child vaccinations should be mandatory,Mandatory vaccines protect against disease spread
+249,Routine child vaccinations should be mandatory,Obligatory vaccination reduces contagion
+250,Routine child vaccinations should be mandatory,Requiring childhood shots prevents transmission
+251,Routine child vaccinations should be mandatory,Compulsory jabs help stop viruses from spreading
+252,Routine child vaccinations should be mandatory,Making vaccines mandatory slows disease
+253,Social media platforms should be regulated by the government,Regulating social media benefits society overall
+254,Social media platforms should be regulated by the government,Government rules can improve social outcomes online
+255,Social media platforms should be regulated by the government,Platform oversight serves the public interest
+256,Social media platforms should be regulated by the government,Public regulation makes networks healthier
+257,Social media platforms should be regulated by the government,Rules for platforms can benefit society
+258,Social media platforms should be regulated by the government,Government oversight yields social benefits
+259,Social media platforms should be regulated by the government,Regulation promotes the common good online
+260,Social media platforms should be regulated by the government,Public interest is served by platform regulation
+261,Social media platforms should be regulated by the government,Society gains when platforms are regulated
+262,Social media platforms should be regulated by the government,Regulatory standards can make social media better
+263,The USA is a good country to live in,The U.S. boasts impressive natural environments
+264,The USA is a good country to live in,America offers outstanding nature and landscapes
+265,The USA is a good country to live in,The country has remarkable natural beauty
+266,The USA is a good country to live in,The U.S. features vast and beautiful nature
+267,The USA is a good country to live in,America’s natural scenery is excellent
+268,The USA is a good country to live in,Natural environments in the U.S. are exceptional
+269,The USA is a good country to live in,The U.S. has abundant and stunning nature
+270,The USA is a good country to live in,American landscapes are diverse and striking
+271,The USA is a good country to live in,The country’s nature is a major asset
+272,The USA is a good country to live in,The U.S. environment is rich and appealing
+273,The USA is a good country to live in,America is blessed with great nature
+274,The USA is a good country to live in,The nation offers beautiful natural settings
+275,The USA is a good country to live in,The U.S. has impressive parks and wilderness
+276,The USA is a good country to live in,America’s nature is extensive and captivating

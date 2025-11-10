@@ -1,0 +1,10 @@
+**/._*
+**/models/
+**/.DS_Store
+**/generate_cache.jsonl
+**/.vscode
+**/__pycache__
+**/logs
+**/cache_kpg
+Li2024/results/generate_cache_IBM.jsonl
+**/rf_debug
