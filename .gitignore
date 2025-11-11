@@ -21,3 +21,4 @@ Li2024/results/generate_cache_IBM.jsonl
 *.zip
 *.tar
 data/
+*.png
