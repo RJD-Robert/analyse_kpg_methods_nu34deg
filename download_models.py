@@ -17,9 +17,9 @@ def download_model(model_name: str, local_dir: str):
 
 if __name__ == "__main__":
     models = {
-        # "BAAI/bge-large-en-v1.5": "/Volumes/storage-webisstud/data-tmp/current/nu34deg/src/codereplication/li2024/models/bge-large-en-v1.5"
-        # "webis/argument-quality-ibm-reproduced": "/Users/robertjosef/development/codereplication_nu34deg/alshomary2021/models/argument-quality-ibm-reproduced",
-        # "sentence-transformers/all-mpnet-base-v2": "/Users/robertjosef/development/codereplication_nu34deg/evaluation/models/all-mpnet-base-v2 ",
+        # "BAAI/bge-large-en-v1.5": "/mnt/ceph/storage/data-tmp/current/nu34deg/src/codereplication/li2024/models/bge-large-en-v1.5"
+        # "webis/argument-quality-ibm-reproduced": "/mnt/ceph/storage/data-tmp/current/nu34deg/src/codereplication/alshomary2021/models/argument-quality-ibm-reproduced",
+        # "sentence-transformers/all-mpnet-base-v2": "/mnt/ceph/storage/data-tmp/current/nu34deg/src/codereplication/evaluation/models/all-mpnet-base-v2 ",
         # "FacebookAI/roberta-large-mnli": "/mnt/ceph/storage/data-tmp/current/nu34deg/src/codereplication/evaluation/models/roberta-large-mnli"
         # "cross-encoder/stsb-roberta-large": "/mnt/ceph/storage/data-tmp/current/nu34deg/src/codereplication/evaluation/models/stsb-roberta-large"
     }

@@ -12,4 +12,4 @@ cd "${SLURM_SUBMIT_DIR}"
 cd ../../alshomary2021
 
 python3  KPG_pipeline.py --arguments-csv ../modified_KPG/output/argmatch_processed_3x300.csv \
-                          --output-path ./output/alshomary_keypoints_argmatch_3x300.csv
+                         --output-path ./output/alshomary_keypoints_argmatch_3x300.csv
