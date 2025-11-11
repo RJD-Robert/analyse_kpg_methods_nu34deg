@@ -53,4 +53,8 @@ The folder **`scripts/modified_KPG`** contains the **pre- and post-processing sc
   Takes the **3×300 keypoint sets** and removes all **duplicates**.  
   This script serves as the **post-processing step** for the *n = 900* setting, ensuring a unique and consolidated set of keypoints.
   
+## Data
 
+available at: 
+
+/mnt/ceph/storage/data-in-progress/data-research/arguana/key-point-generation
